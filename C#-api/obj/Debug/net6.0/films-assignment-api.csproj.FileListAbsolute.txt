@@ -1,0 +1,105 @@
+/Users/macshack/Desktop/films-assignment-be-fe-main 2/films-assignment-api/bin/Debug/net6.0/appsettings.Development.json
+/Users/macshack/Desktop/films-assignment-be-fe-main 2/films-assignment-api/bin/Debug/net6.0/appsettings.json
+/Users/macshack/Desktop/films-assignment-be-fe-main 2/films-assignment-api/bin/Debug/net6.0/films-assignment-api.staticwebassets.runtime.json
+/Users/macshack/Desktop/films-assignment-be-fe-main 2/films-assignment-api/bin/Debug/net6.0/films-assignment-api
+/Users/macshack/Desktop/films-assignment-be-fe-main 2/films-assignment-api/bin/Debug/net6.0/films-assignment-api.deps.json
+/Users/macshack/Desktop/films-assignment-be-fe-main 2/films-assignment-api/bin/Debug/net6.0/films-assignment-api.runtimeconfig.json
+/Users/macshack/Desktop/films-assignment-be-fe-main 2/films-assignment-api/bin/Debug/net6.0/films-assignment-api.dll
+/Users/macshack/Desktop/films-assignment-be-fe-main 2/films-assignment-api/bin/Debug/net6.0/films-assignment-api.pdb
+/Users/macshack/Desktop/films-assignment-be-fe-main 2/films-assignment-api/bin/Debug/net6.0/LiteDB.dll
+/Users/macshack/Desktop/films-assignment-be-fe-main 2/films-assignment-api/bin/Debug/net6.0/Microsoft.AspNetCore.OData.dll
+/Users/macshack/Desktop/films-assignment-be-fe-main 2/films-assignment-api/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/macshack/Desktop/films-assignment-be-fe-main 2/films-assignment-api/bin/Debug/net6.0/Microsoft.OData.Core.dll
+/Users/macshack/Desktop/films-assignment-be-fe-main 2/films-assignment-api/bin/Debug/net6.0/Microsoft.OData.Edm.dll
+/Users/macshack/Desktop/films-assignment-be-fe-main 2/films-assignment-api/bin/Debug/net6.0/Microsoft.OData.ModelBuilder.dll
+/Users/macshack/Desktop/films-assignment-be-fe-main 2/films-assignment-api/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/macshack/Desktop/films-assignment-be-fe-main 2/films-assignment-api/bin/Debug/net6.0/Microsoft.Spatial.dll
+/Users/macshack/Desktop/films-assignment-be-fe-main 2/films-assignment-api/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/macshack/Desktop/films-assignment-be-fe-main 2/films-assignment-api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/macshack/Desktop/films-assignment-be-fe-main 2/films-assignment-api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/macshack/Desktop/films-assignment-be-fe-main 2/films-assignment-api/obj/Debug/net6.0/films-assignment-api.csproj.AssemblyReference.cache
+/Users/macshack/Desktop/films-assignment-be-fe-main 2/films-assignment-api/obj/Debug/net6.0/films-assignment-api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macshack/Desktop/films-assignment-be-fe-main 2/films-assignment-api/obj/Debug/net6.0/films-assignment-api.AssemblyInfoInputs.cache
+/Users/macshack/Desktop/films-assignment-be-fe-main 2/films-assignment-api/obj/Debug/net6.0/films-assignment-api.AssemblyInfo.cs
+/Users/macshack/Desktop/films-assignment-be-fe-main 2/films-assignment-api/obj/Debug/net6.0/films-assignment-api.csproj.CoreCompileInputs.cache
+/Users/macshack/Desktop/films-assignment-be-fe-main 2/films-assignment-api/obj/Debug/net6.0/films-assignment-api.MvcApplicationPartsAssemblyInfo.cs
+/Users/macshack/Desktop/films-assignment-be-fe-main 2/films-assignment-api/obj/Debug/net6.0/films-assignment-api.MvcApplicationPartsAssemblyInfo.cache
+/Users/macshack/Desktop/films-assignment-be-fe-main 2/films-assignment-api/obj/Debug/net6.0/staticwebassets.build.json
+/Users/macshack/Desktop/films-assignment-be-fe-main 2/films-assignment-api/obj/Debug/net6.0/staticwebassets.development.json
+/Users/macshack/Desktop/films-assignment-be-fe-main 2/films-assignment-api/obj/Debug/net6.0/scopedcss/bundle/films-assignment-api.styles.css
+/Users/macshack/Desktop/films-assignment-be-fe-main 2/films-assignment-api/obj/Debug/net6.0/films-assignment-api.csproj.CopyComplete
+/Users/macshack/Desktop/films-assignment-be-fe-main 2/films-assignment-api/obj/Debug/net6.0/films-assignment-api.dll
+/Users/macshack/Desktop/films-assignment-be-fe-main 2/films-assignment-api/obj/Debug/net6.0/refint/films-assignment-api.dll
+/Users/macshack/Desktop/films-assignment-be-fe-main 2/films-assignment-api/obj/Debug/net6.0/films-assignment-api.pdb
+/Users/macshack/Desktop/films-assignment-be-fe-main 2/films-assignment-api/obj/Debug/net6.0/films-assignment-api.genruntimeconfig.cache
+/Users/macshack/Desktop/films-assignment-be-fe-main 2/films-assignment-api/obj/Debug/net6.0/ref/films-assignment-api.dll
+/Users/macshack/Downloads/VISTA DIGITAL/films-assignment-api/bin/Debug/net6.0/appsettings.Development.json
+/Users/macshack/Downloads/VISTA DIGITAL/films-assignment-api/bin/Debug/net6.0/appsettings.json
+/Users/macshack/Downloads/VISTA DIGITAL/films-assignment-api/bin/Debug/net6.0/films-assignment-api.staticwebassets.runtime.json
+/Users/macshack/Downloads/VISTA DIGITAL/films-assignment-api/bin/Debug/net6.0/films-assignment-api
+/Users/macshack/Downloads/VISTA DIGITAL/films-assignment-api/bin/Debug/net6.0/films-assignment-api.deps.json
+/Users/macshack/Downloads/VISTA DIGITAL/films-assignment-api/bin/Debug/net6.0/films-assignment-api.runtimeconfig.json
+/Users/macshack/Downloads/VISTA DIGITAL/films-assignment-api/bin/Debug/net6.0/films-assignment-api.dll
+/Users/macshack/Downloads/VISTA DIGITAL/films-assignment-api/bin/Debug/net6.0/films-assignment-api.pdb
+/Users/macshack/Downloads/VISTA DIGITAL/films-assignment-api/bin/Debug/net6.0/LiteDB.dll
+/Users/macshack/Downloads/VISTA DIGITAL/films-assignment-api/bin/Debug/net6.0/Microsoft.AspNetCore.OData.dll
+/Users/macshack/Downloads/VISTA DIGITAL/films-assignment-api/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/macshack/Downloads/VISTA DIGITAL/films-assignment-api/bin/Debug/net6.0/Microsoft.OData.Core.dll
+/Users/macshack/Downloads/VISTA DIGITAL/films-assignment-api/bin/Debug/net6.0/Microsoft.OData.Edm.dll
+/Users/macshack/Downloads/VISTA DIGITAL/films-assignment-api/bin/Debug/net6.0/Microsoft.OData.ModelBuilder.dll
+/Users/macshack/Downloads/VISTA DIGITAL/films-assignment-api/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/macshack/Downloads/VISTA DIGITAL/films-assignment-api/bin/Debug/net6.0/Microsoft.Spatial.dll
+/Users/macshack/Downloads/VISTA DIGITAL/films-assignment-api/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/macshack/Downloads/VISTA DIGITAL/films-assignment-api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/macshack/Downloads/VISTA DIGITAL/films-assignment-api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/macshack/Downloads/VISTA DIGITAL/films-assignment-api/obj/Debug/net6.0/films-assignment-api.csproj.AssemblyReference.cache
+/Users/macshack/Downloads/VISTA DIGITAL/films-assignment-api/obj/Debug/net6.0/films-assignment-api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macshack/Downloads/VISTA DIGITAL/films-assignment-api/obj/Debug/net6.0/films-assignment-api.AssemblyInfoInputs.cache
+/Users/macshack/Downloads/VISTA DIGITAL/films-assignment-api/obj/Debug/net6.0/films-assignment-api.AssemblyInfo.cs
+/Users/macshack/Downloads/VISTA DIGITAL/films-assignment-api/obj/Debug/net6.0/films-assignment-api.csproj.CoreCompileInputs.cache
+/Users/macshack/Downloads/VISTA DIGITAL/films-assignment-api/obj/Debug/net6.0/films-assignment-api.MvcApplicationPartsAssemblyInfo.cs
+/Users/macshack/Downloads/VISTA DIGITAL/films-assignment-api/obj/Debug/net6.0/films-assignment-api.MvcApplicationPartsAssemblyInfo.cache
+/Users/macshack/Downloads/VISTA DIGITAL/films-assignment-api/obj/Debug/net6.0/staticwebassets.build.json
+/Users/macshack/Downloads/VISTA DIGITAL/films-assignment-api/obj/Debug/net6.0/staticwebassets.development.json
+/Users/macshack/Downloads/VISTA DIGITAL/films-assignment-api/obj/Debug/net6.0/scopedcss/bundle/films-assignment-api.styles.css
+/Users/macshack/Downloads/VISTA DIGITAL/films-assignment-api/obj/Debug/net6.0/films-assignment-api.csproj.CopyComplete
+/Users/macshack/Downloads/VISTA DIGITAL/films-assignment-api/obj/Debug/net6.0/films-assignment-api.dll
+/Users/macshack/Downloads/VISTA DIGITAL/films-assignment-api/obj/Debug/net6.0/refint/films-assignment-api.dll
+/Users/macshack/Downloads/VISTA DIGITAL/films-assignment-api/obj/Debug/net6.0/films-assignment-api.pdb
+/Users/macshack/Downloads/VISTA DIGITAL/films-assignment-api/obj/Debug/net6.0/films-assignment-api.genruntimeconfig.cache
+/Users/macshack/Downloads/VISTA DIGITAL/films-assignment-api/obj/Debug/net6.0/ref/films-assignment-api.dll
+/Users/macshack/Documents/GitHub/films-assignment-fe/films-assignment-api/bin/Debug/net6.0/appsettings.Development.json
+/Users/macshack/Documents/GitHub/films-assignment-fe/films-assignment-api/bin/Debug/net6.0/appsettings.json
+/Users/macshack/Documents/GitHub/films-assignment-fe/films-assignment-api/bin/Debug/net6.0/films-assignment-api.staticwebassets.runtime.json
+/Users/macshack/Documents/GitHub/films-assignment-fe/films-assignment-api/bin/Debug/net6.0/films-assignment-api
+/Users/macshack/Documents/GitHub/films-assignment-fe/films-assignment-api/bin/Debug/net6.0/films-assignment-api.deps.json
+/Users/macshack/Documents/GitHub/films-assignment-fe/films-assignment-api/bin/Debug/net6.0/films-assignment-api.runtimeconfig.json
+/Users/macshack/Documents/GitHub/films-assignment-fe/films-assignment-api/bin/Debug/net6.0/films-assignment-api.dll
+/Users/macshack/Documents/GitHub/films-assignment-fe/films-assignment-api/bin/Debug/net6.0/films-assignment-api.pdb
+/Users/macshack/Documents/GitHub/films-assignment-fe/films-assignment-api/bin/Debug/net6.0/LiteDB.dll
+/Users/macshack/Documents/GitHub/films-assignment-fe/films-assignment-api/bin/Debug/net6.0/Microsoft.AspNetCore.OData.dll
+/Users/macshack/Documents/GitHub/films-assignment-fe/films-assignment-api/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/macshack/Documents/GitHub/films-assignment-fe/films-assignment-api/bin/Debug/net6.0/Microsoft.OData.Core.dll
+/Users/macshack/Documents/GitHub/films-assignment-fe/films-assignment-api/bin/Debug/net6.0/Microsoft.OData.Edm.dll
+/Users/macshack/Documents/GitHub/films-assignment-fe/films-assignment-api/bin/Debug/net6.0/Microsoft.OData.ModelBuilder.dll
+/Users/macshack/Documents/GitHub/films-assignment-fe/films-assignment-api/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/macshack/Documents/GitHub/films-assignment-fe/films-assignment-api/bin/Debug/net6.0/Microsoft.Spatial.dll
+/Users/macshack/Documents/GitHub/films-assignment-fe/films-assignment-api/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/macshack/Documents/GitHub/films-assignment-fe/films-assignment-api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/macshack/Documents/GitHub/films-assignment-fe/films-assignment-api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/macshack/Documents/GitHub/films-assignment-fe/films-assignment-api/obj/Debug/net6.0/films-assignment-api.csproj.AssemblyReference.cache
+/Users/macshack/Documents/GitHub/films-assignment-fe/films-assignment-api/obj/Debug/net6.0/films-assignment-api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macshack/Documents/GitHub/films-assignment-fe/films-assignment-api/obj/Debug/net6.0/films-assignment-api.AssemblyInfoInputs.cache
+/Users/macshack/Documents/GitHub/films-assignment-fe/films-assignment-api/obj/Debug/net6.0/films-assignment-api.AssemblyInfo.cs
+/Users/macshack/Documents/GitHub/films-assignment-fe/films-assignment-api/obj/Debug/net6.0/films-assignment-api.csproj.CoreCompileInputs.cache
+/Users/macshack/Documents/GitHub/films-assignment-fe/films-assignment-api/obj/Debug/net6.0/films-assignment-api.MvcApplicationPartsAssemblyInfo.cs
+/Users/macshack/Documents/GitHub/films-assignment-fe/films-assignment-api/obj/Debug/net6.0/films-assignment-api.MvcApplicationPartsAssemblyInfo.cache
+/Users/macshack/Documents/GitHub/films-assignment-fe/films-assignment-api/obj/Debug/net6.0/staticwebassets.build.json
+/Users/macshack/Documents/GitHub/films-assignment-fe/films-assignment-api/obj/Debug/net6.0/staticwebassets.development.json
+/Users/macshack/Documents/GitHub/films-assignment-fe/films-assignment-api/obj/Debug/net6.0/scopedcss/bundle/films-assignment-api.styles.css
+/Users/macshack/Documents/GitHub/films-assignment-fe/films-assignment-api/obj/Debug/net6.0/films-assignment-api.csproj.CopyComplete
+/Users/macshack/Documents/GitHub/films-assignment-fe/films-assignment-api/obj/Debug/net6.0/films-assignment-api.dll
+/Users/macshack/Documents/GitHub/films-assignment-fe/films-assignment-api/obj/Debug/net6.0/refint/films-assignment-api.dll
+/Users/macshack/Documents/GitHub/films-assignment-fe/films-assignment-api/obj/Debug/net6.0/films-assignment-api.pdb
+/Users/macshack/Documents/GitHub/films-assignment-fe/films-assignment-api/obj/Debug/net6.0/films-assignment-api.genruntimeconfig.cache
+/Users/macshack/Documents/GitHub/films-assignment-fe/films-assignment-api/obj/Debug/net6.0/ref/films-assignment-api.dll

@@ -1,0 +1,35 @@
+@import "./styles/variables.scss";
+.app {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+.container {
+  max-width: 1280px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+h1{
+  text-align: center;
+}
+
+.header{
+  width: 100%;
+  background-color:$primary;
+  padding: 10px 0;
+  height: 60px;
+  position: sticky;
+
+  .links{
+    max-width: 1280px;
+    width: 95%;
+    margin:0 auto;
+  }
+  
+  a{
+    text-decoration: none;
+    color:$white;
+    font-size: 22px;
+  }
+}
+}

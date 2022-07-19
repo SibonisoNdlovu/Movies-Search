@@ -1,0 +1,21 @@
+@import '../../styles/variables.scss';
+.search {
+  display: flex;
+  column-gap: 20px;
+  .search-bar {
+    width: 175%;
+    input {
+      width: 100%;
+    }
+  }
+  .genre-bar {
+    width: 100%;
+    select {
+      width: 100%;
+      color: black;
+      &:first-child {
+        color: $placeholder;
+      }
+    }
+  }
+}

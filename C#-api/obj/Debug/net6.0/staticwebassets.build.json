@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "rcDKe8Wvi4Nv6gMiowW/1ZSLvMR/w07V2xKge5JZksU=",
+  "Source": "films-assignment-api",
+  "BasePath": "_content/films-assignment-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "films-assignment-api/wwwroot",
+      "Source": "films-assignment-api",
+      "ContentRoot": "/Users/macshack/Documents/GitHub/films-assignment-fe/films-assignment-api/wwwroot/",
+      "BasePath": "_content/films-assignment-api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/macshack/Documents/GitHub/films-assignment-fe/films-assignment-api/wwwroot/poster.png",
+      "SourceId": "films-assignment-api",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/macshack/Documents/GitHub/films-assignment-fe/films-assignment-api/wwwroot/",
+      "BasePath": "_content/films-assignment-api",
+      "RelativePath": "poster.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/poster.png"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+@import '../../styles/variables.scss';
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  padding: 0;
+  list-style: none;
+  width: 100%;
+}
+
+.page-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  padding: 0;
+  list-style: none;
+  width: 100%;
+}
+
+.page-link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  padding: 0;
+  list-style: none;
+  width: 100%;
+}
+
+nav .page-link {
+  color: $primary;
+  border: 1px solid $primary;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 0 5px;
+  font-size: 1.2rem;
+  cursor: pointer;
+}

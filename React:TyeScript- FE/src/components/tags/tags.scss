@@ -1,0 +1,19 @@
+@import '../../styles/variables.scss';
+
+.tags {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 8px;
+
+  .tag {
+    padding: 3px 10px;
+    padding-bottom: 5px;
+    color: $shadow;
+    font-weight: 700;
+    font-size: 12px;
+    border: $shadow solid 1px;
+    transition: all linear .2s;
+  }
+}

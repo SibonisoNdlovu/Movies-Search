@@ -1,0 +1,32 @@
+@import "./styles/variables.scss";
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: $white;
+}
+* {
+  box-sizing: border-box;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+input, select {
+  height: 35px;
+  padding: .1rem 1.7%;
+  background-color: $input-bg;
+  border: $input-bg solid 1px;
+  &:focus, &:focus-visible {
+    outline: none;
+  }
+  &::placeholder {
+    color: $placeholder;
+  }
+}
